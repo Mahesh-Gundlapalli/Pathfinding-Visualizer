@@ -4,7 +4,6 @@
 This project is a step-by-step guide to building a pathfinding visualizer using **React**. The tutorial emphasizes Dijkstra's algorithm and includes interactive grid functionality, making it an engaging educational tool for understanding pathfinding algorithms in a visual and intuitive way.
 
 ## Key Features
-- 🎥 **Highly Requested Tutorial**: Covers popular demand for a hands-on pathfinding visualizer.
 - 💻 **Built with React**: Refactored from previous code, prioritizing maintainability and improved structure.
 - 🧩 **Focus on Dijkstra's Algorithm**: Walkthrough on implementing Dijkstra's algorithm for pathfinding.
 - 🌐 **Interactive Grid**: Users can create walls, set start and end nodes, and visualize pathfinding in real time.
@@ -36,4 +35,4 @@ This project is a step-by-step guide to building a pathfinding visualizer using 
 ## Installation and Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/pathfinding-visualizer.git
+   git clone https://github.com/Mahesh-Gundlapalli/Pathfinding-Visualizer.git
