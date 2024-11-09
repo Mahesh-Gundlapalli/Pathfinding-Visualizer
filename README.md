@@ -35,4 +35,4 @@ This project is a step-by-step guide to building a pathfinding visualizer using 
 ## Installation and Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/pathfinding-visualizer.git
+   git clone https://github.com/Mahesh-Gundlapalli/Pathfinding-Visualizer.git
